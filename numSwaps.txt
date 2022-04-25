@@ -1,0 +1,5 @@
+Size of dataset: 50,000
+Number of swaps: 
+    MergeSort: 354978
+    TranspositionSort: 608024905
+
