@@ -2,6 +2,9 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+// edited original csv data file to create an extended version of my data
+// original data: data.csv
+// edited data: dataExtended.csv
 public class Main {
 
     //Method declarations
